@@ -1,0 +1,36 @@
+{
+    "code":200,
+    "data":[
+        {
+            "id":"www",
+            "name":"首页",
+            "title":"返回首页",
+            "icon":"",
+            "url":"https://www.sangyuancheng.xyz"
+        },{
+            "id":"blog",
+            "name":"博客",
+            "icon":"",
+            "title":"进入博客主页",
+            "url":"https://blog.sangyuancheng.xyz"
+        },{
+            "id":"music",
+            "name":"音乐",
+            "icon":"",
+            "title":"在线音乐播放",
+            "url":"https://music.sangyuancheng.xyz"
+        },{
+            "id":"down",
+            "name":"下载",
+            "icon":"",
+            "title":"软件下载",
+            "url":"javascript:void(0)"
+        },{
+            "id":"info",
+            "name":"关于",
+            "icon":"",
+            "title":"关于本站",
+            "url":"javascript:void(0)"
+        }
+    ]
+}

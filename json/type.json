@@ -1,0 +1,27 @@
+[
+    {
+        "title":"默认分类",
+        "type":0,
+        "class":"c-default"
+    },{
+        "title":"旅游攻略",
+        "type":1,
+        "class":"c-tour"
+    },{
+        "title":"计划任务",
+        "type":2,
+        "class":"c-task"
+    },{
+        "title":"随心笔记",
+        "type":3,
+        "class":"c-notepad"
+    },{
+        "title":"技术分享",
+        "type":4,
+        "class":"c-code"
+    },{
+        "title":"转载",
+        "type":5,
+        "class":"c-share"
+    }
+]
