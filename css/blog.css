@@ -25,6 +25,9 @@
     #textarea div[type="imgPosition"]{
         max-height: 500px !important;
     }
+    #textarea div[type="imgs"] img{
+        width: 100% !important;
+    }
 }
 #textarea div[type="imgPosition"]{
     max-height: 400px;
