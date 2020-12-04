@@ -29,7 +29,6 @@
 #textarea div[type="imgPosition"]{
     max-height: 400px;
     overflow-y: auto;
-    text-align: center;
 }
 #textarea div[type="imgPosition"] img{
     max-width: 100%;
