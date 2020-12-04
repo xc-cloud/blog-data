@@ -21,9 +21,15 @@
     font-size: 14px;
     outline:none;
 }
+@media screen and (min-width: 1300px){
+    #textarea div[type="imgPosition"]{
+        max-height: 500px !important;
+    }
+}
 #textarea div[type="imgPosition"]{
     max-height: 400px;
     overflow-y: auto;
+    text-align: center;
 }
 #textarea div[type="imgPosition"] img{
     max-width: 100%;
