@@ -43,6 +43,7 @@
 }
 #textarea div[type="imgs"] img{
     display: block;
+    height: auto;
     width: auto;
     margin: 5px;
     overflow: auto !important;
