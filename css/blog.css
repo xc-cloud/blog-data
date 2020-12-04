@@ -33,6 +33,17 @@
 #textarea div[type="imgPosition"] img{
     max-width: 100%;
 }
+#textarea div[type="imgs"]{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+#textarea div[type="imgs"] img{
+    display: block;
+    height: 100%;
+    width: auto;
+    margin: 5px;
+}
 #textarea img{
     color: transparent;
     background-color: transparent;
