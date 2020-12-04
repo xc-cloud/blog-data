@@ -40,6 +40,7 @@
     display: flex;
     justify-content: center;
     align-content: center;
+    display: -webkit-flex;
 }
 #textarea div[type="imgs"] img{
     display: block;
