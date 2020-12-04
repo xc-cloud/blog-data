@@ -26,7 +26,7 @@
     overflow-y: auto;
 }
 #textarea div[type="imgPosition"] img{
-    width: 100%;
+    max-width: 100%;
 }
 #textarea img{
     color: transparent;
