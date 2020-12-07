@@ -201,6 +201,10 @@ pre,xc{
     text-indent: 2em;
     color: green;
 }
+.link-img{
+    text-indent: 2em;
+    color: rgb(134, 0, 134);
+}
 .quote-double{
     display: block !important;
     padding: 15px !important;
