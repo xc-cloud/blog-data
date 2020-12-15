@@ -126,6 +126,7 @@
     margin-top: 5px;
     margin-bottom: 5px;
     overflow: initial;
+    text-indent: 1em;
 }
 pre,xc{
     display: inline;
@@ -135,12 +136,8 @@ pre,xc{
     color: black !important;
     background-color: transparent !important;
     font-weight: 600 !important;
-    padding-top: 5px !important;
-    padding-bottom: 5px !important;
-}
-.h1,.h2,.h3,.h4,.h5,.h6,.line,.quote,.quote-double,.quote-three,.quote-four,.quote-five,.codes,.xc-scope{
-    margin-top: 0px !important;
-    margin-bottom: 0px !important;
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
 }
 .h1{
     font-size: 24px !important;
@@ -267,6 +264,11 @@ pre,xc{
     position: relative !important;
     color: rgb(255, 255, 255) !important;
     border-left: 8px solid #dddfe4 !important;
+}
+.h1,.h2,.h3,.h4,.h5,.h6,.line,.quote,.quote-double,.quote-three,.quote-four,.quote-five,.codes,.xc-scope{
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+    padding-left: 5px !important;
 }
 .deleteLine{
     text-decoration: line-through !important;
