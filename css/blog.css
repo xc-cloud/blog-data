@@ -141,6 +141,7 @@ pre,xc{
 }
 .h1{
     font-size: 24px !important;
+    text-indent: 0em !important;
 }
 .h2{
     font-size: 22px !important;
@@ -269,7 +270,7 @@ pre,xc{
     margin-top: 0px !important;
     margin-bottom: 0px !important;
 }
-.h1,.h2,.h3,.h4,.h5,.h6,.line,.quote,.codes,.xc-scope{
+.line,.quote,.quote-double,.quote-three,.quote-four,.quote-five,.codes,.xc-scope{
     padding-left: 5px !important;
 }
 .deleteLine{
