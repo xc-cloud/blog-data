@@ -120,7 +120,6 @@
 #flieList ul li:hover{
     text-decoration: underline;
 }
-
 /* 下面都是textarea中元素自定义样式属性 */
 #textarea *{
     margin-top: 5px;
