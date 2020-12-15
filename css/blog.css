@@ -207,10 +207,10 @@ pre,xc{
     display: block !important;
     padding: 15px !important;
     padding-left: 10px !important;
-    background-color: #09005e !important;
+    background-color: #fbfbfb !important;
     position: relative !important;
-    color: rgb(255, 255, 255) !important;
-    border-left: 8px solid #dddfe4 !important;
+    color: rgb(139, 139, 139) !important;
+    border-left: 8px solid #eff0f1 !important;
 }
 .quote-three{
     display: block !important;
@@ -219,7 +219,7 @@ pre,xc{
     background-color: #000000 !important;
     position: relative !important;
     color: rgb(168, 168, 168) !important;
-    border-left: 8px solid #dddfe4 !important;
+    border-left: 8px solid #ffffff !important;
 }
 .codes{
     text-indent: 1em;
@@ -252,19 +252,19 @@ pre,xc{
     display: block !important;
     padding: 15px !important;
     padding-left: 20px !important;
-    background-color: #00708b !important;
+    background-color: #003c4a !important;
     position: relative !important;
     color: rgb(255, 255, 255) !important;
-    border-left: 8px solid #dddfe4 !important;
+    border-left: 8px solid #000000 !important;
 }
 .quote-five{
     display: block !important;
     padding: 15px !important;
     padding-left: 25px !important;
-    background-color: #640005 !important;
+    background-color: #f54750 !important;
     position: relative !important;
     color: rgb(255, 255, 255) !important;
-    border-left: 8px solid #dddfe4 !important;
+    border-left: 8px solid #2faf00 !important;
 }
 .h1,.h2,.h3,.h4,.h5,.h6,.line,.quote,.quote-double,.quote-three,.quote-four,.quote-five,.codes,.xc-scope{
     margin-top: 0px !important;
