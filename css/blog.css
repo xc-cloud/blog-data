@@ -140,31 +140,31 @@ pre,xc{
 }
 .h1{
     font-size: 24px !important;
-    text-indent: 0em !important;
+    text-indent: 1em !important;
 }
 .h2{
     font-size: 22px !important;
-    text-indent: 1em !important;
+    text-indent: 2em !important;
 }
 .sh2{padding-left: 1em !important;}
 .h3{
     font-size: 20px !important;
-    text-indent: 2em !important;
+    text-indent: 3em !important;
 }
 .sh3{padding-left: 2em  !important;}
 .h4{
     font-size: 18px !important;
-    text-indent: 3em !important;
+    text-indent: 4em !important;
 }
 .sh4{padding-left: 3em  !important;}
 .h5{
     font-size: 16px !important;
-    text-indent: 4em !important;
+    text-indent: 5em !important;
 }
 .sh5{padding-left: 4em  !important;}
 .h6{
     font-size: 14px !important;
-    text-indent: 5em !important;
+    text-indent: 6em !important;
 }
 .sh6{padding-left: 5em  !important;}
 .line{
