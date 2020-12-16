@@ -125,7 +125,6 @@
         margin-top: 5px;
         margin-bottom: 5px;
         overflow: initial;
-        text-indent: 1em;
     }
     #textarea pre,#textarea xc{
         display: inline;
@@ -140,31 +139,31 @@
     }
     #textarea .h1{
         font-size: 24px !important;
-        text-indent: 1em !important;
+        text-indent: 0em !important;
     }
     #textarea .h2{
         font-size: 22px !important;
-        text-indent: 2em !important;
+        text-indent: 1em !important;
     }
     #textarea .sh2{padding-left: 1em !important;}
     #textarea .h3{
         font-size: 20px !important;
-        text-indent: 3em !important;
+        text-indent: 2em !important;
     }
     #textarea .sh3{padding-left: 2em  !important;}
     #textarea .h4{
         font-size: 18px !important;
-        text-indent: 4em !important;
+        text-indent: 3em !important;
     }
     #textarea .sh4{padding-left: 3em  !important;}
     #textarea .h5{
         font-size: 16px !important;
-        text-indent: 5em !important;
+        text-indent: 4em !important;
     }
     #textarea .sh5{padding-left: 4em  !important;}
     #textarea .h6{
         font-size: 14px !important;
-        text-indent: 6em !important;
+        text-indent: 5em !important;
     }
     #textarea .sh6{padding-left: 5em  !important;}
     #textarea .line{
