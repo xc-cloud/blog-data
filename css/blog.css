@@ -153,6 +153,10 @@
     font-size: 14px !important;
     padding-top: 5px !important;
     padding-bottom: 5px !important;
+    overflow: auto !important;
+}
+#textarea .xc-scope *{
+    width: max-content !important;
 }
 #textarea .xc-scope-before,#textarea .xc-scope-after{
     color: rgb(119, 119, 119) !important;
