@@ -156,6 +156,7 @@
     overflow: auto !important;
 }
 #textarea .xc-scope *{
+    min-width: 100% !important;
     width: max-content !important;
 }
 #textarea .xc-scope-before,#textarea .xc-scope-after{
