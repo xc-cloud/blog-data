@@ -1,4 +1,10 @@
 /* 下面都是textarea中元素自定义样式属性 */
+iframe{
+    border: 0px;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
 #textarea{
     overflow-y: auto;
     overflow-x: auto !important;
