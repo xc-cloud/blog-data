@@ -47,7 +47,7 @@
 #textarea *{
     margin-top: 5px;
     margin-bottom: 5px;
-    overflow: initial;
+    overflow: auto;
 }
 #textarea pre,#textarea xc{
     display: inline;
@@ -204,6 +204,9 @@
 }
 #textarea .italic{
     font-style:italic !important;
+}
+#textarea .fontWeight{
+    font-weight: 600;
 }
 #textarea .item{
     position: relative !important;
