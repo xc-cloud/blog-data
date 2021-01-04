@@ -50,7 +50,7 @@ iframe{
     color: transparent;
     background-color: transparent;
 }
-#textarea *{
+#textarea * :not(.entry-content *){
     margin-top: 5px;
     margin-bottom: 5px;
     overflow: auto;
