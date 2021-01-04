@@ -1,4 +1,4 @@
-﻿/* 下面都是textarea中元素自定义样式属性 */
+/* 下面都是textarea中元素自定义样式属性 */
 iframe{
     border: 0px;
     padding: 0;
@@ -50,15 +50,10 @@ iframe{
     color: transparent;
     background-color: transparent;
 }
-#textarea *:not(
-
-.CodeMirror *){
+#textarea *{
     margin-top: 5px;
     margin-bottom: 5px;
     overflow: auto;
-}
-#textarea pre,#textarea xc{
-    display: inline;
 }
 #textarea .h1,#textarea .h2,#textarea .h3,#textarea .h4,#textarea .h5,#textarea .h6{
     display: block !important;
