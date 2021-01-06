@@ -236,6 +236,8 @@ iframe{
     padding-left: 16px !important;
     outline:none !important;
     resize:none !important;
+    font-weight: 600 !important;
+    margin-right: 10px !important;
 }
 #textarea .table-text-align-center tr td,#textarea .table-text-align-center tr th,#textarea .table-body-text-align-center tr td,#textarea .table-head-text-align-center tr th{
     text-align: center;
