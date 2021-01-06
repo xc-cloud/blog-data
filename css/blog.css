@@ -56,6 +56,11 @@ iframe{
     overflow: auto;
     min-height: 14px;
 }
+.entry-content *{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    overflow: initial;
+}
 #textarea .h1,#textarea .h2,#textarea .h3,#textarea .h4,#textarea .h5,#textarea .h6{
     display: block !important;
     color: black !important;
