@@ -227,7 +227,9 @@ iframe{
     border-radius: 50% !important;
     font-size: 24px !important;
     left: 0px !important;
-    top: 9px !important;
+    top: 50% !important;
+    bottom: 50% !important;
+    margin: auto;
 }
 #textarea .numberItem{
     display: block !important;
