@@ -218,7 +218,7 @@ iframe{
     margin-bottom: 10px !important;
     padding-left: 16px !important;
 }
-#textarea .item::after{
+#textarea .item::before{
     position: absolute !important;
     content: '' !important;
     height: 5px !important;
@@ -226,7 +226,7 @@ iframe{
     background-color: black !important;
     border-radius: 50% !important;
     font-size: 24px !important;
-    left: 16px !important;
+    left: 0px !important;
     top: 9px !important;
 }
 #textarea .numberItem{
