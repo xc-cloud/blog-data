@@ -54,6 +54,7 @@ iframe{
     margin-top: 5px;
     margin-bottom: 5px;
     overflow: auto;
+    min-height: 14px;
 }
 #textarea .h1,#textarea .h2,#textarea .h3,#textarea .h4,#textarea .h5,#textarea .h6{
     display: block !important;
