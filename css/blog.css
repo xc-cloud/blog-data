@@ -259,6 +259,7 @@ iframe{
 #textarea .index-list ul li{
     list-style: decimal !important;
     font-weight: 600 !important;
+    padding-left:6px !important;
 }
 #textarea .index-list ul li span{
     font-weight: initial !important;
