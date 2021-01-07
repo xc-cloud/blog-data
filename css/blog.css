@@ -33,13 +33,13 @@ iframe{
 #textarea div[type="imgPosition"] img{
     max-width: 100%;
 }
-#textarea div[type="imgs"]{
+#textarea div[type="imgs"],#textarea div.imgs{
     display: flex;
     justify-content: center;
     align-content: center;
     align-items: center;
 }
-#textarea div[type="imgs"] img{
+#textarea div[type="imgs"] img,#textarea div.imgs img{
     display: block;
     height: 100%;
     width: 100%;
