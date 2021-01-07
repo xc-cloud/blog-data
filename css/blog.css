@@ -250,6 +250,16 @@ iframe{
     min-width: 30px !important;
     overflow: hidden !important;
 }
+#textarea .index-list ul,#textarea .index-list ul li{
+    overflow: inherit !important;
+}
+#textarea .index-list ul li{
+    list-style: decimal !important;
+    font-weight: 600 !important;
+}
+#textarea .index-list ul li span{
+    font-weight: initial !important;
+}
 #textarea .table-text-align-center tr td,#textarea .table-text-align-center tr th,#textarea .table-body-text-align-center tr td,#textarea .table-head-text-align-center tr th{
     text-align: center;
 }
