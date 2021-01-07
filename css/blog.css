@@ -236,7 +236,7 @@ iframe{
     bottom: 50% !important;
     margin: auto;
 }
-#textarea .numberItem{
+#textarea .numberItem,#textarea .numberItemWeb{
     display: block !important;
     margin-top:10px !important;
     margin-bottom: 10px !important;
@@ -246,14 +246,6 @@ iframe{
     margin-right: 10px !important;
 }
 #textarea .numberItemWeb{
-    display: block !important;
-    margin-top:10px !important;
-    margin-bottom: 10px !important;
-    padding-left: 16px !important;
-    outline:none !important;
-    resize:none !important;
-    font-weight: 600 !important;
-    margin-right: 10px !important;
     min-width: 30px !important;
     overflow: hidden !important;
 }
