@@ -285,3 +285,7 @@ iframe{
 #textarea .class{
     font-size: 12px;
 }
+
+#textarea table td,#textarea table th{
+    min-width: 100px;
+}
