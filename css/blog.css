@@ -250,6 +250,9 @@ iframe{
     min-width: 30px !important;
     overflow: hidden !important;
 }
+#textarea .index-list ul{
+    padding-left: 36px !important;
+}
 #textarea .index-list ul,#textarea .index-list ul li{
     overflow: initial !important;
 }
