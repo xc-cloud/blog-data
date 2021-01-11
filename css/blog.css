@@ -257,9 +257,16 @@ iframe{
     overflow: initial !important;
 }
 #textarea .index-list ul li{
-    list-style: decimal !important;
     font-weight: 600 !important;
-    padding-left:6px !important;
+}
+#textarea .index-list ul li[type='decimal']{
+    list-style: decimal !important;
+}
+#textarea .index-list ul li[type='disc']{
+    list-style: disc !important;
+}
+#textarea .index-list ul li[type='circle']{
+    list-style: circle !important;
 }
 #textarea .index-list ul li span{
     font-weight: initial !important;
