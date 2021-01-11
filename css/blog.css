@@ -42,7 +42,7 @@ iframe{
 #textarea div[type="imgs"] img,#textarea div.imgs img{
     display: block;
     height: 100%;
-    width: 100%;
+    max-width: 100%;
     margin: 5px;
     overflow: auto !important;
 }
