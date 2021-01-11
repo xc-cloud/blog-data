@@ -256,9 +256,6 @@ iframe{
 #textarea .index-list ul,#textarea .index-list ul li{
     overflow: initial !important;
 }
-#textarea .index-list ul li{
-    font-weight: 600 !important;
-}
 #textarea .index-list ul li[type='decimal']{
     list-style: decimal !important;
 }
