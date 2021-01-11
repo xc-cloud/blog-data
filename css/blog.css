@@ -269,7 +269,7 @@ iframe{
     list-style: circle !important;
 }
 #textarea .index-list ul li span{
-    font-weight: initial !important;
+    font-weight: initial;
 }
 #textarea .table-text-align-center tr td,#textarea .table-text-align-center tr th,#textarea .table-body-text-align-center tr td,#textarea .table-head-text-align-center tr th{
     text-align: center;
