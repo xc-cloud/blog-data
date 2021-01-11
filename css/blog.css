@@ -215,7 +215,7 @@ iframe{
     font-style:italic !important;
 }
 #textarea .fontWeight{
-    font-weight: 600;
+    font-weight: 600 !important;
 }
 #textarea .item{
     position: relative !important;
