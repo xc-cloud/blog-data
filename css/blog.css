@@ -36,8 +36,16 @@ iframe{
     max-width: 100%;
     overflow: auto !important;
 }
-#textarea div.margin *{
+#textarea div.margin-left *{
+    margin-left: 0;
+    margin-right: auto;
+}
+#textarea div.margin-center *{
     margin: auto;
+}
+#textarea div.margin-right *{
+    margin-left: auto;
+    margin-right: 0;
 }
 #textarea img{
     color: transparent;
