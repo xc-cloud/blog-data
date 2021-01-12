@@ -22,9 +22,6 @@ iframe{
     #textarea div[type="imgPosition"]{
         max-height: 500px !important;
     }
-    #textarea div[type="imgs"] img{
-        width: 100% !important;
-    }
 }
 #textarea div[type="imgPosition"]{
     max-height: 400px;
@@ -35,9 +32,6 @@ iframe{
 }
 #textarea div[type="imgs"],#textarea div.imgs{
     display: flex;
-    justify-content: center;
-    align-content: center;
-    align-items: center;
 }
 #textarea div[type="imgs"] img,#textarea div.imgs img{
     display: block;
