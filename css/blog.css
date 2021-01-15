@@ -202,6 +202,14 @@ iframe{
     color: rgb(255, 255, 255) !important;
     border-left: 8px solid #2faf00 !important;
 }
+#textarea .quote-six{
+    display: block !important;
+    padding: 15px !important;
+    padding-left: 25px !important;
+    background-color: transparent !important;
+    position: relative !important;
+    border-left: 8px solid transparent !important;
+}
 #textarea .h1,#textarea .h2,#textarea .h3,#textarea .h4,#textarea .h5,#textarea .h6,#textarea .line,#textarea .quote,#textarea .quote-double,#textarea .quote-three,#textarea .quote-four,#textarea .quote-five,#textarea .codes,#textarea .xc-scope{
     margin-top: 0px !important;
     margin-bottom: 0px !important;
